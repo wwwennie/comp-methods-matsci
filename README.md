@@ -13,11 +13,11 @@ The emphasis of this course is on developing a mathematical, algorithmic, and ph
 The methods covered in this course will be connected to several on-going research areas and technological applications in chemical engineering and materials science. 
 
 By the end of this course, students will be expected to be able to:
-    - Implement materials modeling methods using basic principles and concepts of scientific coding
-    - Generate, analyze, and visualize simulated data
-    - Interpret simulate data and explain its physical significance
-    - Propose physical models for modeling complex materials phenomena, identify their assumptions and limitations, and suggest improvements to the simulation
-    - Communicate (oral and written) their results to a general audience
+- Implement materials modeling methods using basic principles and concepts of scientific coding
+- Generate, analyze, and visualize simulated data
+- Interpret simulate data and explain its physical significance
+- Propose physical models for modeling complex materials phenomena, identify their assumptions and limitations, and suggest improvements to the simulation
+- Communicate (oral and written) their results to a general audience
 
 The course will be based on Python, a popular open-source programming language in materials science. 
 
